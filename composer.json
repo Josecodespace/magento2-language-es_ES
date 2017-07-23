@@ -1,0 +1,2 @@
+{ "name": "hensx81/magento2-language-es-ES", "description": "Magento 2 Spanish translation", "version": "100.0.6", "license": [ "OSL-3.0", "AFL-3.0" ], "require": { "magento/framework": "100.0.*" }, "type": "magento2-language", "autoload": { "files": [ "registration.php" ] }
+}
