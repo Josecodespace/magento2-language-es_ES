@@ -7,6 +7,4 @@
 * @Last MOdified time: 23-07-2017
 * @website: http://sepia.solutions
 */
-\Magento\Framework\Component\ComponentRegistrar::register( \Magento\Framework\Component\ComponentRegistrar::LANGUAGE, 'sepiaopensource_es_ES', __DIR__
-);
-?>
+\Magento\Framework\Component\ComponentRegistrar::register( \Magento\Framework\Component\ComponentRegistrar::LANGUAGE, 'sepiaopensource_es_ES', __DIR__);
